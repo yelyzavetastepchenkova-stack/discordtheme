@@ -1,6 +1,6 @@
 /*этот код добавлять через быстрый css, он для изменения цвета текста*/
 div[class*="markup"] {
-  background: linear-gradient(to right, rgb(172,248,255), rgb(242,185,255));
+  background: linear-gradient(to right, rgb(255, 141, 204), rgb(255, 255, 255));
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent; /*чтобы действовало только на тексь, не перекрывало его полностью цветом*/
   font-size: 15px;
